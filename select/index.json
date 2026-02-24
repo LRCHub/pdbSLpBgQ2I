@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "奥田民生「さすらい」OFFICIAL MUSIC VIDEO",
+  "base_artist": "奥田民生",
+  "createdAt": "2026-02-24T05:47:31.773607Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "奥田民生愛のテーマ",
+      "artist": "奥田 民生",
+      "has_synced": false,
+      "path": "select/pl_01_奥田民生愛のテーマ_奥田_民生.txt"
+    }
+  ]
+}
